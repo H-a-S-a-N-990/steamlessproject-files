@@ -188,11 +188,10 @@ However, an archive project including them will be provided soon on archive.org.
 
 | File | Link | Description | Date added On/Developer |
 |------|------|-------------|------|
-| hlds_20040707fix.c | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=19) | Half-Life Dedicated Server v3.1.1.1e Security Fix - Security patch for HLDS v3.1.1.1e (Linux) developed by Liskni_si. Have a look at this tutorial for instructions on how to use it. | Jan 31, 2016
-Liskni_si 
-| hlds_l_3110_full.bin | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=17) | Half-Life Dedicated Server v3.1.1.0 for Linux Full Package - Standalone version of the Half-Life Dedicated Server for Linux. Note: 3.1.1.0 suffers from many security vulnerabilities. This package is only preserved for ... | Jan 31, 2016
-Valve Corporation 
-
+| hlds_20040707fix.c | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=19) | Half-Life Dedicated Server v3.1.1.1e Security Fix - Security patch for HLDS v3.1.1.1e (Linux) developed by Liskni_si. Have a look at this tutorial for instructions on how to use it. | Jan 31, 2016 Liskni_si 
+| hlds_l_3110_full.bin | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=17) | Half-Life Dedicated Server v3.1.1.0 for Linux Full Package - Standalone version of the Half-Life Dedicated Server for Linux. Note: 3.1.1.0 suffers from many security vulnerabilities. This package is only preserved for ... | Jan 31, 2016 Valve Corporation
+| hlds_l_3111e_update.tar.gz | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=18) | Half-Life Dedicated Server v3.1.1.1e for Linux Update - Update package for the standalone v3.1.1.1 server. If you are running 3.1.1.0, update to 3.1.1.1 first before applying this update. | Jan 31, 2016 Valve Corporation
+| hlds_l_3111_full.bin | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=20) | Half-Life Dedicated Server v3.1.1.1 for Linux Full Package - Standalone version of the Half-Life Dedicated Server for Linux. Note: 3.1.1.1 suffers from many security vulnerabilities. Make sure to apply the 3.1.1.1e ... | Feb 06, 2016 Valve Corporation
 ---
 
 Steamless / WON2 Files
