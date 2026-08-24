@@ -189,9 +189,9 @@ However, an archive project including them will be provided soon on archive.org.
 | File | Link | Description | Date added On/Developer |
 |------|------|-------------|------|
 | hlds_20040707fix.c | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=19) | Half-Life Dedicated Server v3.1.1.1e Security Fix - Security patch for HLDS v3.1.1.1e (Linux) developed by Liskni_si. Have a look at this tutorial for instructions on how to use it. | Jan 31, 2016
-Liskni_si |
+Liskni_si 
 | hlds_l_3110_full.bin | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=17) | Half-Life Dedicated Server v3.1.1.0 for Linux Full Package - Standalone version of the Half-Life Dedicated Server for Linux. Note: 3.1.1.0 suffers from many security vulnerabilities. This package is only preserved for ... | Jan 31, 2016
-Valve Corporation |
+Valve Corporation 
 
 ---
 
