@@ -4,7 +4,7 @@ Steamless Project Files
 
 About
 
-Steamless Project Files is an independent preservation fork of "Ch0wW/counterstrike-betas" (https://github.com/Ch0wW/counterstrike-betas).
+Steamless Project Files is an independent preservation fork of [Ch0wW/counterstrike-betas](https://github.com/Ch0wW/counterstrike-betas).
 
 The upstream Counter-Strike Betas project focuses on preserving historical Counter-Strike beta and pre-1.6 releases, together with their original files and related information.
 
@@ -37,7 +37,7 @@ Relationship to the Upstream Repository
 
 This repository is based on:
 
-"Ch0wW/counterstrike-betas" (https://github.com/Ch0wW/counterstrike-betas)
+[Ch0wW/counterstrike-betas](https://github.com/Ch0wW/counterstrike-betas)
 
 The upstream repository remains the original source for the Counter-Strike beta preservation work included here.
 
