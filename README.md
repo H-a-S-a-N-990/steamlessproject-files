@@ -109,7 +109,7 @@ All released mod versions of Counter-Strike are compatible with Half-Life 1.1.1.
 
 | Version | Release Date | Windows? | Linux? | Repository | Download |
 | -------- | ------- | -------- | -------- | -------- | -------- |
-| CS 1.6 beta 3 | `June 12, 2002` | ✔ | ❌ | [Link](https://web.archive.org/web/20230201014701/https://files.steamlessproject.nl/download.php?id=14) | 
+| CS 1.6 beta 3 | `June 12, 2002` | ✔ | ❌ | No repository for this | [Download](https://web.archive.org/web/20230201014701/https://files.steamlessproject.nl/download.php?id=14) |
 | CS 1.5 | `June 12, 2002` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs15_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs15_retail.zip) |
 | CS 1.4 | `April 24, 2002` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs14_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs14_retail.zip) |
 | CS 1.3 | `September 12, 2001` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs13_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs13_retail.zip) |
@@ -186,9 +186,12 @@ However, an archive project including them will be provided soon on archive.org.
 ## For Linux
 
 
-| File | Link | Description | Date |
+| File | Link | Description | Date added On/Developer |
 |------|------|-------------|------|
-| hlds_20040707fix.c | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=19) | Half-Life Dedicated Server v3.1.1.1e Security Fix - Security patch for HLDS v3.1.1.1e (Linux) developed by Liskni_si. Have a look at this tutorial for instructions on how to use it. | Jan 31, 2016 |
+| hlds_20040707fix.c | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=19) | Half-Life Dedicated Server v3.1.1.1e Security Fix - Security patch for HLDS v3.1.1.1e (Linux) developed by Liskni_si. Have a look at this tutorial for instructions on how to use it. | Jan 31, 2016
+Liskni_si |
+| hlds_l_3110_full.bin | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=17) | Half-Life Dedicated Server v3.1.1.0 for Linux Full Package - Standalone version of the Half-Life Dedicated Server for Linux. Note: 3.1.1.0 suffers from many security vulnerabilities. This package is only preserved for ... | Jan 31, 2016
+Valve Corporation |
 
 ---
 
