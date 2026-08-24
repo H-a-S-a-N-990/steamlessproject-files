@@ -177,7 +177,7 @@ However, an archive project including them will be provided soon on archive.org.
 - **Ch0wW** for his repository of CS copies!
 - **nirv** for providing the leaked build of CS Beta 5.0 to **Ch0wW**!
 
-# Related projects:
+# Related projects ( by Ch0wW ):
 - [Docker image for HLDS 1.1.1.0](https://github.com/Ch0wW/docker-hlds-won2)
 - [Docker image for HLDS 1.0.1.6](https://github.com/Ch0wW/docker-hlds-won2-1016)
 
