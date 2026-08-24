@@ -187,7 +187,8 @@ However, an archive project including them will be provided soon on archive.org.
 
 
 | File | Link | Description | Date |
-| hlds_20040707fix.c | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=19) | Half-Life Dedicated Server v3.1.1.1e Security Fix - Security patch for HLDS v3.1.1.1e (Linux) developed by Liskni_si. Have a look at this tutorial for instructions on how to use it. | Jan 31, 2016 |
+|------|------|-------------|------|
+| hlds_20040707fix.c | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=19) | Half-Life Dedicated Server v3.1.1.1e Security Fix - Security patch for HLDS v3.1.1.1e (Linux) developed by Liskni_si. Have a look at [this tutorial](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=19) for instructions on how to use it. | Jan 31, 2016 |
 
 ---
 
