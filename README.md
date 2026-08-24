@@ -173,10 +173,6 @@ The installer files that were used for Counter-Strike are NOT included in this r
 
 However, an archive project including them will be provided soon on archive.org.
 
-### Special Thanks
-- **Ch0wW** for his repository of CS copies!
-- **nirv** for providing the leaked build of CS Beta 5.0 to **Ch0wW**!
-
 # Related projects ( by Ch0wW ):
 - [Docker image for HLDS 1.1.1.0](https://github.com/Ch0wW/docker-hlds-won2)
 - [Docker image for HLDS 1.0.1.6](https://github.com/Ch0wW/docker-hlds-won2-1016)
@@ -272,9 +268,9 @@ Unverified| The historical origin or version has not yet been fully confirmed.
 
 Credits & Attribution
 
-Ch0wW / counterstrike-betas
+**Ch0wW** for his repository of CS copies!
 
-Special thanks to Ch0wW and all contributors to the original "counterstrike-betas" repository.
+**nirv** for providing the leaked build of CS Beta 5.0 to **Ch0wW**!
 
 Their preservation work forms the foundation of the Counter-Strike beta material contained in this fork.
 
