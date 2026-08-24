@@ -109,7 +109,7 @@ All released mod versions of Counter-Strike are compatible with Half-Life 1.1.1.
 
 | Version | Release Date | Windows? | Linux? | Repository | Download |
 | -------- | ------- | -------- | -------- | -------- | -------- |
-| CS 1.6 beta 3 | `June 12, 2002` | ✔ | ❌ | No repository for this | [Download](https://web.archive.org/web/20230201014701/https://files.steamlessproject.nl/download.php?id=14) |
+| CS 1.6 beta 3 | `Sep 25, 2015` | ✔ | ❌ | No repository for this | [Download](https://web.archive.org/web/20230201014701/https://files.steamlessproject.nl/download.php?id=14) |
 | CS 1.5 | `June 12, 2002` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs15_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs15_retail.zip) |
 | CS 1.4 | `April 24, 2002` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs14_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs14_retail.zip) |
 | CS 1.3 | `September 12, 2001` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs13_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs13_retail.zip) |
@@ -184,10 +184,10 @@ However, an archive project including them will be provided soon on archive.org.
 
 | File | Link | Description | Date added On/Developer |
 |------|------|-------------|------|
-| hlds_20040707fix.c | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=19) | Half-Life Dedicated Server v3.1.1.1e Security Fix - Security patch for HLDS v3.1.1.1e (Linux) developed by Liskni_si. Have a look at this tutorial for instructions on how to use it. | Jan 31, 2016 Liskni_si 
-| hlds_l_3110_full.bin | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=17) | Half-Life Dedicated Server v3.1.1.0 for Linux Full Package - Standalone version of the Half-Life Dedicated Server for Linux. Note: 3.1.1.0 suffers from many security vulnerabilities. This package is only preserved for ... | Jan 31, 2016 Valve Corporation
-| hlds_l_3111e_update.tar.gz | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=18) | Half-Life Dedicated Server v3.1.1.1e for Linux Update - Update package for the standalone v3.1.1.1 server. If you are running 3.1.1.0, update to 3.1.1.1 first before applying this update. | Jan 31, 2016 Valve Corporation
-| hlds_l_3111_full.bin | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=20) | Half-Life Dedicated Server v3.1.1.1 for Linux Full Package - Standalone version of the Half-Life Dedicated Server for Linux. Note: 3.1.1.1 suffers from many security vulnerabilities. Make sure to apply the 3.1.1.1e ... | Feb 06, 2016 Valve Corporation
+| hlds_20040707fix.c | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=19) | Half-Life Dedicated Server v3.1.1.1e Security Fix - Security patch for HLDS v3.1.1.1e (Linux) developed by Liskni_si. Have a look at this tutorial for instructions on how to use it. | Jan 31, 2016 Liskni_si |
+| hlds_l_3110_full.bin | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=17) | Half-Life Dedicated Server v3.1.1.0 for Linux Full Package - Standalone version of the Half-Life Dedicated Server for Linux. Note: 3.1.1.0 suffers from many security vulnerabilities. This package is only preserved for ... | Jan 31, 2016 Valve Corporation |
+| hlds_l_3111e_update.tar.gz | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=18) | Half-Life Dedicated Server v3.1.1.1e for Linux Update - Update package for the standalone v3.1.1.1 server. If you are running 3.1.1.0, update to 3.1.1.1 first before applying this update. | Jan 31, 2016 Valve Corporation |
+| hlds_l_3111_full.bin | [Download](https://web.archive.org/web/20230325012640/https://files.steamlessproject.nl/file.php?id=20) | Half-Life Dedicated Server v3.1.1.1 for Linux Full Package - Standalone version of the Half-Life Dedicated Server for Linux. Note: 3.1.1.1 suffers from many security vulnerabilities. Make sure to apply the 3.1.1.1e ... | Feb 06, 2016 Valve Corporation |
 
 
 ### For Windows
@@ -195,9 +195,9 @@ However, an archive project including them will be provided soon on archive.org.
 
 | File | Link | Description | Date added On/Developer |
 |------|------|-------------|------|
-| HLDS2-v220a_EN.rar | [Download](https://web.archive.org/web/20230325010010/https://files.steamlessproject.nl/file.php?id=8) | Half-Life Dedicated Server v2.2.0a - Prepackaged standalone server software for running WON2-based servers. Now with the GUI from the Steam version. HLDS2 is an upgrade package for HLDS 4.1.1.0 and 4.1.1.1. ... | Aug 22, 2010 Steamless CS Project
-| hlds4111e_beta.exe | [Download](https://web.archive.org/web/20230325010010/https://files.steamlessproject.nl/file.php?id=22) | Half-Life Dedicated Server 4.1.1.1e Beta Update Package - Incremental update for HLDS 4.1.1.1. If you are using 4.1.1.0, update to 4.1.1.1 first. Alternatively, consider using HLDS2, which can be applied | Feb 06, 2016 Valve Corporation
-| hlserver4110.exe | [Download](https://web.archive.org/web/20230325010010/https://files.steamlessproject.nl/file.php?id=16) | Half-Life Dedicated Server v4.1.1.0 for Windows - Standalone version of the Half-Life Dedicated Server for Windows. This package is equivalent to HLDS that ships with the Half-Life 1.1.1.0 client. Note: x.1.1.0 | Jan 31, 2016 Valve Corporation
+| HLDS2-v220a_EN.rar | [Download](https://web.archive.org/web/20230325010010/https://files.steamlessproject.nl/file.php?id=8) | Half-Life Dedicated Server v2.2.0a - Prepackaged standalone server software for running WON2-based servers. Now with the GUI from the Steam version. HLDS2 is an upgrade package for HLDS 4.1.1.0 and 4.1.1.1. ... | Aug 22, 2010 Steamless CS Project |
+| hlds4111e_beta.exe | [Download](https://web.archive.org/web/20230325010010/https://files.steamlessproject.nl/file.php?id=22) | Half-Life Dedicated Server 4.1.1.1e Beta Update Package - Incremental update for HLDS 4.1.1.1. If you are using 4.1.1.0, update to 4.1.1.1 first. Alternatively, consider using HLDS2, which can be applied | Feb 06, 2016 Valve Corporation |
+| hlserver4110.exe | [Download](https://web.archive.org/web/20230325010010/https://files.steamlessproject.nl/file.php?id=16) | Half-Life Dedicated Server v4.1.1.0 for Windows - Standalone version of the Half-Life Dedicated Server for Windows. This package is equivalent to HLDS that ships with the Half-Life 1.1.1.0 client. Note: x.1.1.0 | Jan 31, 2016 Valve Corporation |
 
 ---
 
