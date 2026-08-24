@@ -108,16 +108,17 @@ Releases
 
 All released mod versions of Counter-Strike are compatible with Half-Life 1.1.1.0 or can be used as a Steam Half-Life 1 mod, although some versions may require additional modifications.
 
-Version| Release Date| Windows| Linux| Repository| Download
-CS 1.5| "June 12, 2002"| ✔| ✔| "Repository" (https://github.com/Ch0wW/counterstrike-betas/tree/cs15_retail)| "Download" (https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs15_retail.zip)
-CS 1.4| "April 24, 2002"| ✔| ✔| "Repository" (https://github.com/Ch0wW/counterstrike-betas/tree/cs14_retail)| "Download" (https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs14_retail.zip)
-CS 1.3| "September 12, 2001"| ✔| ✔| "Repository" (https://github.com/Ch0wW/counterstrike-betas/tree/cs13_retail)| "Download" (https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs13_retail.zip)
-CS 1.2| "June 30, 2001"| ✔| ✔| N/A| Engine update only; no known content changes from 1.1
-CS 1.1c| "April 6, 2001"| ✔| ✔| "Repository" (https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail)| "Download" (https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs11_retail.zip)
-CS 1.1b| "N/C"| ✔| ✔| "Repository" (https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail)| Included with CS 1.1
-CS 1.1| "March 13, 2001"| ✔| ✔| "Repository" (https://github.com/Ch0wW/counterstrike-betas/tree/a98571c1aa4ca3f3a6f42c8848727b34db618bf0)| "Download" (https://github.com/Ch0wW/counterstrike-betas/archive/a98571c1aa4ca3f3a6f42c8848727b34db618bf0.zip)
-CS 1.0b| "January 25, 2001"| ✔| ❌| "Repository" (https://github.com/Ch0wW/counterstrike-betas/tree/cs10_retail)| "Download" (https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs10_retail.zip)
-CS 1.0| "November 8, 2000"| ✔| ✔| "Repository" (https://github.com/Ch0wW/counterstrike-betas/tree/ab6a359832dac535b4e4f25c7d15e724ea514cc1)| "Download" (https://github.com/Ch0wW/counterstrike-betas/archive/ab6a359832dac535b4e4f25c7d15e724ea514cc1.zip)
+| Version | Release Date | Windows? | Linux? | Repository | Download |
+| -------- | ------- | -------- | -------- | -------- | -------- |
+| CS 1.5 | `June 12, 2002` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs15_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs15_retail.zip) |
+| CS 1.4 | `April 24, 2002` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs14_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs14_retail.zip) |
+| CS 1.3 | `September 12, 2001` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs13_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs13_retail.zip) |
+| CS 1.2 | `June 30, 2001` | ✔ | ✔ | [❌](https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail) | Engine update only, no change from 1.1 |
+| CS 1.1c | `April 6, 2001` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs11_retail.zip) |
+| CS 1.1b | `N/C` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail) | Already included in CS 1.1 |
+| CS 1.1 | `March 13, 2001` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/a98571c1aa4ca3f3a6f42c8848727b34db618bf0) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/a98571c1aa4ca3f3a6f42c8848727b34db618bf0.zip) |
+| CS 1.0b | `January 25, 2001` | ✔ | ❌ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs10_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs10_retail.zip) |
+| CS 1.0 | `November 8, 2000` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/ab6a359832dac535b4e4f25c7d15e724ea514cc1) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/ab6a359832dac535b4e4f25c7d15e724ea514cc1.zip) |
 
 ---
 
@@ -127,18 +128,58 @@ Depending on the release, it is recommended to use Half-Life 1.1.1.0 or Half-Lif
 
 Some releases may require additional modifications to run correctly on modern systems or Steam.
 
-Version| Release Date| Windows| Linux| Last Supported Build| Repository| Download
-Beta 7.1| "September 13, 2000"| ✔| ✔| "HL 1.1.1.0"| "Repository" (https://github.com/Ch0wW/counterstrike-betas/tree/csbeta71)| "Download" (https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta71.zip)
-Beta 7.0| "August 26, 2000"| ✔| ✔| "HL 1.1.1.0"| "Repository" (https://github.com/Ch0wW/counterstrike-betas/tree/csbeta70)| "Download" (https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta70.zip)
-Beta 6.8| "August 17, 2000"| ❌| ❌| "HL 1.1.1.0"| MISSING| MISSING
-Beta 6.7| "July 23, 2000"| ❌| ❌| "HL 1.1.1.0"| MISSING| MISSING
-Beta 6.6| "June 22, 2000"| ✔| ✔| "HL 1.1.1.0"| "Repository" (https://github.com/Ch0wW/counterstrike-betas/tree/csbeta66)| "Download" (https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta66.zip)
-Beta 6.5d| "N/C"| ❌| ✔| "HL 1.1.1.0"| "Repository" (https://github.com/Ch0wW/counterstrike-betas/tree/csbeta65)| "Download" (https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta65.zip)
-Beta 6.5| "June 8, 2000"| ✔| ✔| "HL 1.1.1.0"| "Repository" (https://github.com/Ch0wW/counterstrike-betas/tree/0ce5e4e8c1fdbc69fc1720dafa5a5e3ce1eef16d)| "Download" (https://github.com/Ch0wW/counterstrike-betas/archive/0ce5e4e8c1fdbc69fc1720dafa5a5e3ce1eef16d.zip)
-Beta 6.2| "March 26, 2000"| ❌| ❌| "HL 1.0.1.6"| MISSING| MISSING
-Beta 6.1| "March 24, 2000"| ✔| ✔| "HL 1.0.1.6"| "Repository" (https://github.com/Ch0wW/counterstrike-betas/tree/csbeta61)| "Download" (https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta61.zip)
-Beta 6.0| "March 10, 2000"| ✔| ✔| "HL 1.0.1.6"| "Repository" (https://github.com/Ch0wW/counterstrike-betas/tree/csbeta60)| "Download" (https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta60.zip)
-Beta 5.2| "January 10, 2000"| ✔| ✔| "HL 1.0.1.6"| "Repository" (https://github.com/Ch0wW/counterstrike-betas/tree/csbeta52)| "Download" (https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta52.zip)
+| Version | Release Date | Windows? | Linux? | Last supported build | Repository | Download |
+| -------- | ------- | ------- | -------- | -------- | -------- | ------- |
+| Beta 7.1 | `September 13, 2000` |  ✔ | ✔ | `HL 1.1.1.0` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta71) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta71.zip) |
+| Beta 7.0 | `August 26, 2000` | ✔ | ✔ | `HL 1.1.1.0` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta70) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta70.zip) |
+| Beta 6.8 | `August 17, 2000` | ❌ | ❌ | `HL 1.1.1.0` | **MISSING** | **MISSING** |
+| Beta 6.7 | `July 23, 2000` | ❌ | ❌ | `HL 1.1.1.0` | **MISSING** | **MISSING** |
+| Beta 6.6 | `June 22, 2000` | ✔ | ✔ | `HL 1.1.1.0` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta66) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta66.zip) |
+| Beta 6.5d | `N/C` | ❌ | ✔ | `HL 1.1.1.0` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta65) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta65.zip) |
+| Beta 6.5 | `June 8, 2000` | ✔ | ✔ | `HL 1.1.1.0` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/0ce5e4e8c1fdbc69fc1720dafa5a5e3ce1eef16d) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/0ce5e4e8c1fdbc69fc1720dafa5a5e3ce1eef16d.zip) |
+| Beta 6.2 | `March 26, 2000` | ❌ | ❌ | `HL 1.0.1.6` | **MISSING** | **MISSING** |
+| Beta 6.1 | `March 24, 2000` | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta61) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta61.zip) |
+| Beta 6.0 | `March 10, 2000` | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta60) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta60.zip) |
+| Beta 5.2 | `January 10, 2000` | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta52) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta52.zip) |
+| Beta 5.0 | `December 23, 1999` | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta50) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta50.zip) |
+| Beta 5.0 (LEAK) | `December 20, 1999` | ✔ | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta50_leak_20DEC99) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta50_leak_20DEC99.zip) |
+| Beta 4.1 | `December 1, 1999` | ✔ | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta41) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta41.zip) |
+| Beta 4.0 | `November 5, 1999` | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta40) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta40.zip) |
+| Beta 3.1 | `September 16, 1999` | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta31) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta31.zip) |
+| Beta 3.0 | `September 14, 1999` | ✔ | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta30) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta30.zip) |
+| Beta 2.1 | `August 17, 1999` | ✔ | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta21) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta21.zip) |
+| Beta 2.0 | `August 13, 1999` | ✔ | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta20) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta20.zip) |
+| Beta 1.2 | `July 20, 1999` | ❌ | ❌ | `HL 1.0.1.6` | **MISSING** | **MISSING** |
+| Beta 1.1 | `June 27, 1999` | ✔ | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta11) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta11.zip) |
+| Beta 1.0 | `June 19, 1999` | ✔ | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta10) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta10.zip) |
+
+# Additional informations
+
+### Missing CS versions
+The following versions of Counter-Strike are missing from this repository. We do not know if they had a Linux release at one point, if they are missing, or if they are no longer available. If you happen to have any of them, please let me know through an issue file.
+- [ ] Counter-Strike Beta 1.0 (Linux)
+- [ ] Counter-Strike Beta 1.1 (Linux)
+- [ ] Counter-Strike Beta 1.2/1.9 (Windows, Linux)
+- [ ] Counter-Strike Beta 2.0 (Linux)
+- [ ] Counter-Strike Beta 2.1 (Linux)
+- [ ] Counter-Strike Beta 3.0 (Linux)
+- [ ] Counter-Strike Beta 6.2 (Windows, Linux)
+- [ ] Counter-Strike Beta 6.7 (Windows, Linux)
+- [ ] Counter-Strike Beta 6.8 (Windows, Linux)
+- [ ] Counter-Strike Beta 7.1a (Linux)
+
+### Installer Files
+The installer files that were used for Counter-Strike are NOT included in this repository. Only the files that were extracted from said installers.
+
+However, an archive project including them will be provided soon on archive.org.
+
+### Special Thanks
+- **Ch0wW** for his repository of CS copies!
+- **nirv** for providing the leaked build of CS Beta 5.0 to **Ch0wW**!
+
+# Related projects:
+- [Docker image for HLDS 1.1.1.0](https://github.com/Ch0wW/docker-hlds-won2)
+- [Docker image for HLDS 1.0.1.6](https://github.com/Ch0wW/docker-hlds-won2-1016)
 
 ---
 
