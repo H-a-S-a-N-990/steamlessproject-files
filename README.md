@@ -1,83 +1,156 @@
-# List of all Counter-Strike Betas 
+# Steamless Project Files
 
-[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://patreon.baseq.fr)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P27UZHV)
+> A preservation archive for Counter-Strike, Half-Life, WON, WON2, and Steamless-era files.
 
-This repository contains most of the official releases of Counter-Strike Pre-1.6, for preservation purposes. Installer files have already been extracted without any modification.
+## About
 
-If possible, Linux binaries are also provided, avoiding the need to redownload files twice, or to search for them. In addition to that, all versions of Counter-Strike contains a `README.md` file providing all the informations you need, such as the recommended release of Half-Life to run these mods, or the changelog if given.
+This repository is a **fork of [Ch0wW/counterstrike-betas](https://github.com/Ch0wW/counterstrike-betas)**.
 
-Each folder of Counter-Strike has been renamed to properly differenciate them from a community standpoint with the exception of very specific builds of Counter-Strike (CS 1.1b/c, CS 1.0b), or serverside-only fixes (CSBeta 6.6a, 6.6b, 6.8 => `csbeta66`).
+The original `counterstrike-betas` project focuses on preserving official Counter-Strike Pre-1.6 releases and their extracted files. This fork keeps that original preservation work while extending the repository with additional historical files recovered from the **Steamless Project / WON2** ecosystem.
 
-# Version branches
+The purpose of this fork is to preserve old files that were previously distributed through the Steamless Project's file repository and other historical WON/WON2 sources.
 
-# Releases
-All released mod-versions of Counter-Strike work with HL 1.1.1.0 or as a Steam Mod for HL1 (may require modifications)
+### What this fork adds
 
-| Version | Release Date | Windows? | Linux? | Repository | Download |
-| -------- | ------- | -------- | -------- | -------- | -------- |
-| CS 1.5 | `June 12, 2002` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs15_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs15_retail.zip) |
-| CS 1.4 | `April 24, 2002` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs14_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs14_retail.zip) |
-| CS 1.3 | `September 12, 2001` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs13_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs13_retail.zip) |
-| CS 1.2 | `June 30, 2001` | ✔ | ✔ | [❌](https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail) | Engine update only, no change from 1.1 |
-| CS 1.1c | `April 6, 2001` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs11_retail.zip) |
-| CS 1.1b | `N/C` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs11_retail) | Already included in CS 1.1 |
-| CS 1.1 | `March 13, 2001` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/a98571c1aa4ca3f3a6f42c8848727b34db618bf0) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/a98571c1aa4ca3f3a6f42c8848727b34db618bf0.zip) |
-| CS 1.0b | `January 25, 2001` | ✔ | ❌ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs10_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs10_retail.zip) |
-| CS 1.0 | `November 8, 2000` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/ab6a359832dac535b4e4f25c7d15e724ea514cc1) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/ab6a359832dac535b4e4f25c7d15e724ea514cc1.zip) |
+In addition to the Counter-Strike releases already preserved by the upstream project, this fork may contain:
 
-# Betas
+- Steamless Project files
+- WON2 client files
+- WON2 server files
+- WON2 patches and updates
+- Archived installers
+- Documentation and configuration files
+- Other historical files recovered from the old Steamless Project repository
 
-Depending on the beta, it is recommended to use Half-Life 1.1.1.0 (or Steam, with the exception of 6.5 that requires modifications in order for clients to make it run), and Half-Life 1.0.1.6 if you're running Beta 6.2 or below. 
+Files are added **for preservation and historical reference** and are kept as close as possible to their original form.
 
-| Version | Release Date | Windows? | Linux? | Last supported build | Repository | Download |
-| -------- | ------- | ------- | -------- | -------- | -------- | ------- |
-| Beta 7.1 | `September 13, 2000` |  ✔ | ✔ | `HL 1.1.1.0` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta71) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta71.zip) |
-| Beta 7.0 | `August 26, 2000` | ✔ | ✔ | `HL 1.1.1.0` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta70) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta70.zip) |
-| Beta 6.8 | `August 17, 2000` | ❌ | ❌ | `HL 1.1.1.0` | **MISSING** | **MISSING** |
-| Beta 6.7 | `July 23, 2000` | ❌ | ❌ | `HL 1.1.1.0` | **MISSING** | **MISSING** |
-| Beta 6.6 | `June 22, 2000` | ✔ | ✔ | `HL 1.1.1.0` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta66) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta66.zip) |
-| Beta 6.5d | `N/C` | ❌ | ✔ | `HL 1.1.1.0` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta65) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta65.zip) |
-| Beta 6.5 | `June 8, 2000` | ✔ | ✔ | `HL 1.1.1.0` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/0ce5e4e8c1fdbc69fc1720dafa5a5e3ce1eef16d) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/0ce5e4e8c1fdbc69fc1720dafa5a5e3ce1eef16d.zip) |
-| Beta 6.2 | `March 26, 2000` | ❌ | ❌ | `HL 1.0.1.6` | **MISSING** | **MISSING** |
-| Beta 6.1 | `March 24, 2000` | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta61) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta61.zip) |
-| Beta 6.0 | `March 10, 2000` | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta60) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta60.zip) |
-| Beta 5.2 | `January 10, 2000` | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta52) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta52.zip) |
-| Beta 5.0 | `December 23, 1999` | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta50) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta50.zip) |
-| Beta 5.0 (LEAK) | `December 20, 1999` | ✔ | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta50_leak_20DEC99) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta50_leak_20DEC99.zip) |
-| Beta 4.1 | `December 1, 1999` | ✔ | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta41) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta41.zip) |
-| Beta 4.0 | `November 5, 1999` | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta40) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta40.zip) |
-| Beta 3.1 | `September 16, 1999` | ✔ | ✔ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta31) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta31.zip) |
-| Beta 3.0 | `September 14, 1999` | ✔ | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta30) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta30.zip) |
-| Beta 2.1 | `August 17, 1999` | ✔ | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta21) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta21.zip) |
-| Beta 2.0 | `August 13, 1999` | ✔ | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta20) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta20.zip) |
-| Beta 1.2 | `July 20, 1999` | ❌ | ❌ | `HL 1.0.1.6` | **MISSING** | **MISSING** |
-| Beta 1.1 | `June 27, 1999` | ✔ | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta11) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta11.zip) |
-| Beta 1.0 | `June 19, 1999` | ✔ | ❌ | `HL 1.0.1.6` | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/csbeta10) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/csbeta10.zip) |
+---
 
-# Additional informations
+## Relationship to the Original Repository
 
-### Missing CS versions
-The following versions of Counter-Strike are missing from this repository. We do not know if they had a Linux release at one point, if they are missing, or if they are no longer available. If you happen to have any of them, please let me know through an issue file.
-- [ ] Counter-Strike Beta 1.0 (Linux)
-- [ ] Counter-Strike Beta 1.1 (Linux)
-- [ ] Counter-Strike Beta 1.2/1.9 (Windows, Linux)
-- [ ] Counter-Strike Beta 2.0 (Linux)
-- [ ] Counter-Strike Beta 2.1 (Linux)
-- [ ] Counter-Strike Beta 3.0 (Linux)
-- [ ] Counter-Strike Beta 6.2 (Windows, Linux)
-- [ ] Counter-Strike Beta 6.7 (Windows, Linux)
-- [ ] Counter-Strike Beta 6.8 (Windows, Linux)
-- [ ] Counter-Strike Beta 7.1a (Linux)
+This project is directly based on:
 
-### Installer Files
-The installer files that were used for Counter-Strike are NOT included in this repository. Only the files that were extracted from said installers.
+**[Ch0wW/counterstrike-betas](https://github.com/Ch0wW/counterstrike-betas)**
 
-However, an archive project including them will be provided soon on archive.org.
+The original repository remains the primary source for the preserved Counter-Strike beta releases.
 
-### Special Thanks
-- **nirv** for providing the leaked build of CS Beta 5.0 !
+This fork does **not** replace or claim ownership of the original project. Instead, it builds upon that work by adding another preservation collection focused on the Steamless/WON/WON2 ecosystem.
 
-# Related projects:
-- [Docker image for HLDS 1.1.1.0](https://github.com/Ch0wW/docker-hlds-won2)
-- [Docker image for HLDS 1.0.1.6](https://github.com/Ch0wW/docker-hlds-won2-1016)
+All original files, documentation, credits, and attribution from the upstream repository remain applicable.
+
+### Upstream Project
+
+**Counter-Strike Betas**  
+https://github.com/Ch0wW/counterstrike-betas
+
+### This Fork
+
+**Steamless Project Files**
+
+An independent preservation fork containing the upstream Counter-Strike preservation material plus additional Steamless/WON2 historical files.
+
+---
+
+## Preservation Sources
+
+Additional files in this fork may have been recovered from:
+
+- Internet Archive captures
+- Historical Steamless Project downloads
+- Old WON2 repositories
+- Community archives
+- Historical mirrors
+- Original release archives
+- Other publicly available preservation sources
+
+Whenever possible, the original source and historical information about a file will be documented.
+
+---
+
+## Preservation Policy
+
+The goal is to preserve historical files rather than modify or modernize them.
+
+Whenever possible:
+
+- Original files are kept unchanged.
+- Original filenames are preserved.
+- Original directory structures are retained.
+- Historical documentation is included.
+- File versions are documented.
+- Checksums may be provided for verification.
+- Recovered files are identified when their provenance is known.
+- Modified files are clearly marked.
+
+If a file was recovered from an Internet Archive snapshot or another historical source, that information may be documented alongside the file.
+
+---
+
+## Disclaimer
+
+This repository is an **independent preservation project**.
+
+It is not officially affiliated with or endorsed by:
+
+- Valve Corporation
+- Counter-Strike
+- Half-Life
+- WON2
+- The original Steamless Project
+
+The repository name refers to the historical files being preserved and does not imply official ownership or affiliation.
+
+---
+
+## Credits
+
+### Ch0wW / counterstrike-betas
+
+Special thanks to **Ch0wW** and all contributors to the original `counterstrike-betas` repository.
+
+Their preservation work is the foundation of this fork.
+
+### Steamless / WON2 Preservation
+
+Additional files are being recovered and preserved from historical Steamless Project and WON2 sources.
+
+Credit will be given to original developers, authors, distributors, and preservationists whenever their contribution can be identified.
+
+---
+
+# Counter-Strike Betas
+
+The Counter-Strike beta releases below originate from the upstream `counterstrike-betas` project.
+
+[... existing Counter-Strike tables from the original README ...]
+
+# Steamless / WON2 Files
+
+Additional historical files recovered for this fork will be documented here.
+
+The collection may include:
+
+```text
+Steamless
+├── Clients
+├── Servers
+├── Patches
+├── Tools
+└── Documentation
+
+WON
+├── Half-Life
+├── Counter-Strike
+├── Patches
+└── Tools
+
+WON2
+├── Clients
+├── Servers
+├── Patches
+└── Tools
+
+HLDS
+├── Half-Life 1.0.1.6
+├── Half-Life 1.1.1.0
+└── WON/WON2 server files
