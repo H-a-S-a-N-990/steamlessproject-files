@@ -199,6 +199,11 @@ However, an archive project including them will be provided soon on archive.org.
 | hlds4111e_beta.exe | [Download](https://web.archive.org/web/20230325010010/https://files.steamlessproject.nl/file.php?id=22) | Half-Life Dedicated Server 4.1.1.1e Beta Update Package - Incremental update for HLDS 4.1.1.1. If you are using 4.1.1.0, update to 4.1.1.1 first. Alternatively, consider using HLDS2, which can be applied | Feb 06, 2016 Valve Corporation |
 | hlserver4110.exe | [Download](https://web.archive.org/web/20230325010010/https://files.steamlessproject.nl/file.php?id=16) | Half-Life Dedicated Server v4.1.1.0 for Windows - Standalone version of the Half-Life Dedicated Server for Windows. This package is equivalent to HLDS that ships with the Half-Life 1.1.1.0 client. Note: x.1.1.0 | Jan 31, 2016 Valve Corporation |
 
+Mods
+
+| File | Link | Description | Date added On/Developer |
+|------|------|-------------|------|
+| DoD_v31.exe | [Download](https://contentuk.planetwon2.com/dod_v31.exe) |
 ---
 
 Steamless / WON2 Files
