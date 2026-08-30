@@ -109,7 +109,7 @@ All released mod versions of Counter-Strike are compatible with Half-Life 1.1.1.
 
 | Version | Release Date | Windows? | Linux? | Repository | Download |
 | -------- | ------- | -------- | -------- | -------- | -------- |
-| CS 1.6 beta 3 | `Sep 25, 2015` | ✔ | ❌ | No repository for this | [Download](https://web.archive.org/web/20230201014701/https://files.steamlessproject.nl/download.php?id=14) |
+| CS 1.6 beta 3 | `Sep 25, 2015` | ✔ | ❌ | No repository for this | [Download](https://contentuk.planetwon2.com/cs16b3full_steamless_cs.exe) |
 | CS 1.5 | `June 12, 2002` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs15_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs15_retail.zip) |
 | CS 1.4 | `April 24, 2002` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs14_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs14_retail.zip) |
 | CS 1.3 | `September 12, 2001` | ✔ | ✔ | [Link](https://github.com/Ch0wW/counterstrike-betas/tree/cs13_retail) | [**Download**](https://github.com/Ch0wW/counterstrike-betas/archive/refs/heads/cs13_retail.zip) |
